@@ -7,11 +7,11 @@ markdown: kramdown
 exclude: [vendor/ruby]
 
 # Personalization
-github_username: wbyoon
-blog_url: https://www.wbyoon.com
+github_username: wbyoon2002
+blog_url: https://blog.naver.com/ericyoon1130
 email: wbyoon@snu.ac.kr
 keybase_username: wbyoon
-twitter_username: wbyoon
+twitter_username: wb_yoon_2002
 reddit_username: wbyoon
 
 # absolute or relative
