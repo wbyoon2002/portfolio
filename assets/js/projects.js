@@ -11,7 +11,7 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/mentors.jpg',
+            image: 'assets/images/GSA=1.jpg',
             link: 'https://github.com/wbyoon2002',
             title: '1st Year R&E',
             demo: 'https://wbyoon2002.github.io/portfolio/',
@@ -20,7 +20,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'High School']
         },
         {
-            image: 'assets/images/mentors.jpg',
+            image: 'assets/images/GSA-2.png',
             link: 'https://github.com/wbyoon2002',
             title: '2nd Year R&E',
             demo: 'https://wbyoon2002.github.io/portfolio/',
@@ -29,7 +29,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'GSA']
         },
         {
-            image: 'assets/images/mentors.jpg',
+            image: 'assets/images/GSA-3.jpg',
             link: 'https://github.com/wbyoon2002',
             title: '3rd Grade R&E',
             demo: 'https://wbyoon2002.github.io/portfolio/',
@@ -38,7 +38,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'GSA']
         },
         {
-            image: 'assets/images/mentors.jpg',
+            image: 'assets/images/KAIST.jpg',
             link: 'https://github.com/wbyoon2002',
             title: 'Fabric-based wearable piezoelectric energy harvester',
             demo: 'https://wbyoon2002.github.io/portfolio/',
@@ -47,7 +47,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'Extracurricular']
         },
         {
-            image: 'assets/images/mentors.jpg',
+            image: 'assets/images/JSA-4.jpg',
             link: 'https://github.com/wbyoon2002',
             title: 'Hand movement recognition device',
             demo: 'https://wbyoon2002.github.io/portfolio/',
