@@ -11,12 +11,12 @@ let render_projects = (slug) => {
 
     let projects_obj = [
         {
-            image: 'assets/images/GSA=1.jpg',
+            image: 'assets/images/GSA-1.jpg',
             link: 'https://github.com/wbyoon2002',
             title: '1st Year R&E',
             demo: 'https://wbyoon2002.github.io/portfolio/',
             technologies: ['Physics', 'Math'],
-            description: "An analysis of the error rate in measuring the moment of inertia of a bat by locating its center of percussion.",
+            description: "An analysis of the error rate in measuring the moment of inertia of a baseball bat by locating its center of percussion.",
             categories: ['featured', 'High School']
         },
         {
@@ -47,7 +47,7 @@ let render_projects = (slug) => {
             categories: ['featured', 'Extracurricular']
         },
         {
-            image: 'assets/images/JSA-4.jpg',
+            image: 'assets/images/GSA-4.jpg',
             link: 'https://github.com/wbyoon2002',
             title: 'Hand movement recognition device',
             demo: 'https://wbyoon2002.github.io/portfolio/',
