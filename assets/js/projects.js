@@ -17,7 +17,7 @@ let render_projects = (slug) => {
             demo: 'https://wbyoon2002.github.io/portfolio/',
             technologies: ['Physics', 'Math'],
             description: "An analysis of the error rate in measuring the moment of inertia of a baseball bat by locating its center of percussion.",
-            categories: ['featured', 'High School']
+            categories: ['featured', 'GSA']
         },
         {
             image: 'assets/images/GSA-2.png',
@@ -54,6 +54,15 @@ let render_projects = (slug) => {
             technologies: ['Physics', 'Math'],
             description: "A hand movement recognition device, which works by measuring the electromotive force of a loop of coil within a Helmholtz coil.",
             categories: ['featured', 'Extracurricular']
+        },
+        {
+            image: 'assets/images/SNU-1.png',
+            link: 'https://github.com/wbyoon2002',
+            title: 'Robot project',
+            demo: 'https://wbyoon2002.github.io/portfolio/',
+            technologies: ['Physics', 'Robotics'],
+            description: "A robot made from popsticle sticks that can walk and overcome hurdles.",
+            categories: ['featured', 'Undergraduate']
         },
     ]
 
